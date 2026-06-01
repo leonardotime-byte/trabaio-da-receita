@@ -49,3 +49,13 @@ p {
     margin-bottom: 32px;
 }
 
+
+
+.tempo h2 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 100%;
+    font-family: 'Outfit', sans-serif;
+    color: #7a284e;
+    margin-bottom: 16px;
+}
